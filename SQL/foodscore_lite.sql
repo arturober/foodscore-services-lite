@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `assbook_lite`
+-- Base de datos: `foodscore_lite`
 --
-CREATE DATABASE IF NOT EXISTS `assbook_lite` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `assbook_lite`;
+CREATE DATABASE IF NOT EXISTS `foodscore_lite` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `foodscore_lite`;
 
 -- --------------------------------------------------------
 
